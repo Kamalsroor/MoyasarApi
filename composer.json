@@ -1,0 +1,25 @@
+{
+	"name":"kamalsroor/moyasarapi",
+	"description": "Moyasar Api Package With Laravel 8.0 above ^ created by kamalsroor :)",
+	"type":"package",
+	"license": "MIT",
+	"version":"1.0",
+	"keywords":["laravel","Moyasar","Payment","banking","API","getaway","integration","php","phpanonymous"],
+	"authors":[
+	{
+		"name":"Kamal Sroor",
+		"email":"kamal.s.sroor@gmail.com",
+		"role":"Developer"
+	}
+	],
+	"require":{
+		"php": ">= 5.5.0",
+		"guzzlehttp/guzzle": "^6.2"
+	},
+	"autoload":{
+		"psr-4":{
+			"kamalsroor\\MoyasarApi\\":"src/"
+		}
+	},
+	"minimum-stability":"dev"
+}
