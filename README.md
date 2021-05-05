@@ -1,5 +1,5 @@
 # moyasar package with moyasar.com
-Moyasar Api Package With Laravel 5.0 => 5.3 and above ^ created by phpanonymous :)
+Moyasar Api Package With Laravel > 8 and above ^ created by Kamal Sroor :)
 ## Installation
 run this commad on your composer 
 ``` 
@@ -104,9 +104,5 @@ kamalsroor\MoyasarApi\MoyasarFaced\Moyasar\HttpRequestNotFound
 'HttpRequestNotFound'=>kamalsroor\MoyasarApi\MoyasarFaced\Moyasar\HttpRequestNotFound::class,
 ```
 
-soon a simple video to usage it 
-if you have any questions can ask me in this group in facebook 
-https://www.facebook.com/groups/anonymouses.developers
-enjoy :) 
 
 
